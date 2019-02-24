@@ -1,0 +1,10 @@
+c:\users\farukseyhan\source\repos\Santranc\Santranc\obj\Debug\Santranc.csprojResolveAssemblyReference.cache
+c:\users\farukseyhan\source\repos\Santranc\Santranc\obj\Debug\Santranc.Form1.resources
+c:\users\farukseyhan\source\repos\Santranc\Santranc\obj\Debug\Santranc.Properties.Resources.resources
+c:\users\farukseyhan\source\repos\Santranc\Santranc\obj\Debug\Santranc.csproj.GenerateResource.cache
+c:\users\farukseyhan\source\repos\Santranc\Santranc\obj\Debug\Santranc.csproj.CoreCompileInputs.cache
+c:\users\farukseyhan\source\repos\Santranc\Santranc\bin\Debug\Santranc.exe.config
+c:\users\farukseyhan\source\repos\Santranc\Santranc\bin\Debug\Santranc.exe
+c:\users\farukseyhan\source\repos\Santranc\Santranc\bin\Debug\Santranc.pdb
+c:\users\farukseyhan\source\repos\Santranc\Santranc\obj\Debug\Santranc.exe
+c:\users\farukseyhan\source\repos\Santranc\Santranc\obj\Debug\Santranc.pdb
